@@ -1,1 +1,1 @@
-# customer-segments
+# customer_segments
